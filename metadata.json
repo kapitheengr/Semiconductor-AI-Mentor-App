@@ -1,0 +1,8 @@
+{
+  "name": "Semiconverse",
+  "description": "A comprehensive AI-powered platform for semiconductor education, career guidance, and simulation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
